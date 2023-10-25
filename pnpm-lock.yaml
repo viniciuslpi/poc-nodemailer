@@ -1,0 +1,23 @@
+lockfileVersion: 5.4
+
+specifiers:
+  node-mailer: ^0.1.1
+  nodemailer: ^6.9.7
+
+dependencies:
+  node-mailer: 0.1.1
+  nodemailer: 6.9.7
+
+packages:
+
+  /node-mailer/0.1.1:
+    resolution: {integrity: sha512-L3YwTtPodsYr1sNPW/PxXw0rSOr/ldygaIph2YtXDwLGt9l8km/OjM0Wrr57Yf07JEEnDb3wApjhVdR0k5v0kw==}
+    deprecated: node-mailer is not maintained
+    dependencies:
+      nodemailer: 6.9.7
+    dev: false
+
+  /nodemailer/6.9.7:
+    resolution: {integrity: sha512-rUtR77ksqex/eZRLmQ21LKVH5nAAsVicAtAYudK7JgwenEDZ0UIQ1adUGqErz7sMkWYxWTTU1aeP2Jga6WQyJw==}
+    engines: {node: '>=6.0.0'}
+    dev: false
